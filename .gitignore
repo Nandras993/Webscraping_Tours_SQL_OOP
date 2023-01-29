@@ -1,0 +1,6 @@
+venv
+.idea
+/files/
+data.txt
+/configuration.json
+/example.py
